@@ -29,6 +29,7 @@ NumPy
 Matplotlib
 Statsmodels
 Scikit-learn
+
 Scipy
 🔎 Exploratory Data Analysis (EDA)
 Distribution analysis using histograms
